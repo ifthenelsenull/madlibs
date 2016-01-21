@@ -1,3 +1,4 @@
+CREATE database madlibs;
 
 -- CREATE words table
 CREATE TABLE words (
